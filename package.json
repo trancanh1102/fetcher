@@ -1,0 +1,40 @@
+{
+  "name": "fetcher",
+  "version": "1.0.0",
+  "description": "🔞 Data fetcher for JAVClub core",
+  "main": "test.js",
+  "dependencies": {
+    "config": "^3.3.1",
+    "dom-parser": "^0.1.6",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.19",
+    "log4js": "^6.1.2",
+    "lowdb": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "object-hash": "^2.0.3",
+    "p-retry": "^4.2.0",
+    "parse-torrent": "^7.0.1",
+    "rss-parser": "^3.7.6",
+    "sha256": "^0.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-plugin-markdown": "^1.0.2",
+    "pkg": "^4.4.9",
+    "standard": "^14.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAVClub/fetcher.git"
+  },
+  "author": "XiaoLin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JAVClub/fetcher/issues"
+  },
+  "homepage": "https://github.com/JAVClub/fetcher#readme"
+}

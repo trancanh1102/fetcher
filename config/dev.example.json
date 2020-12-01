@@ -1,0 +1,24 @@
+{
+    "system": {
+        "logLevel": "info"
+    },
+    "remote": [
+        {
+            "driver": "RSS",
+            "type": "MT",
+            "url": "https://pt.m-team.cc/torrentrss.php?https=1&rows=50&cat410=1&isize=1&search=-&search_mode=1&linktype=dl&passkey=yourkeyhere",
+            "interval": 300
+        },
+        {
+            "driver": "OneJAV",
+            "url": "https://onejav.com/popular/",
+            "interval": 300
+        }
+    ],
+    "qbittorrent": {
+        "baseURL": "http://qbittorrent:8585",
+        "username": "admin",
+        "password": "adminadmin",
+        "savePath": ""
+    }
+}
